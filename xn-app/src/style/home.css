@@ -1,0 +1,9 @@
+.formBody {
+  position: relative;
+}
+.formBody .chaxun {
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  left: 270px;
+}

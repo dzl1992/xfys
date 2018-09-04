@@ -1,0 +1,16 @@
+.formBody {
+  padding: 3.125rem 5rem;
+}
+.formBody input {
+  height: 2.5rem;
+}
+.formBody .formTable {
+  margin-top: 3.125rem;
+}
+.formBody .btnOpera .modal .ant-modal-body {
+  height: 400px;
+}
+.formBody .btnOpera .modal .ant-modal-body .cz {
+  margin: 0;
+  padding: 0;
+}

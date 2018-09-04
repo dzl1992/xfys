@@ -1,0 +1,19 @@
+.formperson .btnOpera {
+  float: right;
+  padding-right: 100px;
+  margin-top: 20px;
+}
+.formperson .formTable {
+  margin: 40px auto;
+  width: 95%;
+}
+.formperson .formTable {
+  margin-top: 15px;
+}
+.formperson .formTable th,
+.formperson .formTable td {
+  text-align: center !important;
+}
+.formperson .formTable .opera span {
+  cursor: pointer;
+}

@@ -1,0 +1,99 @@
+.formBodyP {
+  padding: 50px 80px;
+  min-height: 700px;
+  background: #fff;
+  margin-top: 20px;
+}
+.formBodyP .gutter-row {
+  margin-bottom: 15px;
+}
+.formBodyP .gutter-row .ant-input-group,
+.formBodyP .gutter-row .ant-cascader-picker,
+.formBodyP .gutter-row .range,
+.formBodyP .gutter-row .ant-input-search,
+.formBodyP .gutter-row .ant-select-selection {
+  width: 100%;
+  line-height: 40px;
+  height: 40px;
+}
+.formBodyP .gutter-row .ant-input-group .ant-input,
+.formBodyP .gutter-row .ant-cascader-picker .ant-input,
+.formBodyP .gutter-row .range .ant-input,
+.formBodyP .gutter-row .ant-input-search .ant-input,
+.formBodyP .gutter-row .ant-select-selection .ant-input,
+.formBodyP .gutter-row .ant-input-group .ant-select-selection__rendered,
+.formBodyP .gutter-row .ant-cascader-picker .ant-select-selection__rendered,
+.formBodyP .gutter-row .range .ant-select-selection__rendered,
+.formBodyP .gutter-row .ant-input-search .ant-select-selection__rendered,
+.formBodyP .gutter-row .ant-select-selection .ant-select-selection__rendered,
+.formBodyP .gutter-row .ant-input-group .ant-calendar-range-picker-input,
+.formBodyP .gutter-row .ant-cascader-picker .ant-calendar-range-picker-input,
+.formBodyP .gutter-row .range .ant-calendar-range-picker-input,
+.formBodyP .gutter-row .ant-input-search .ant-calendar-range-picker-input,
+.formBodyP .gutter-row .ant-select-selection .ant-calendar-range-picker-input {
+  height: 40px;
+  line-height: 40px;
+  padding-top: 0;
+}
+.formBodyP .gutter-row .ant-input-group .ant-input input,
+.formBodyP .gutter-row .ant-cascader-picker .ant-input input,
+.formBodyP .gutter-row .range .ant-input input,
+.formBodyP .gutter-row .ant-input-search .ant-input input,
+.formBodyP .gutter-row .ant-select-selection .ant-input input,
+.formBodyP .gutter-row .ant-input-group .ant-select-selection__rendered input,
+.formBodyP .gutter-row .ant-cascader-picker .ant-select-selection__rendered input,
+.formBodyP .gutter-row .range .ant-select-selection__rendered input,
+.formBodyP .gutter-row .ant-input-search .ant-select-selection__rendered input,
+.formBodyP .gutter-row .ant-select-selection .ant-select-selection__rendered input,
+.formBodyP .gutter-row .ant-input-group .ant-calendar-range-picker-input input,
+.formBodyP .gutter-row .ant-cascader-picker .ant-calendar-range-picker-input input,
+.formBodyP .gutter-row .range .ant-calendar-range-picker-input input,
+.formBodyP .gutter-row .ant-input-search .ant-calendar-range-picker-input input,
+.formBodyP .gutter-row .ant-select-selection .ant-calendar-range-picker-input input {
+  height: 40px;
+  line-height: 40px;
+}
+.formBodyP .plus,
+.formBodyP .minus,
+.formBodyP .question {
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+}
+.formBodyP .plus {
+  color: green;
+}
+.formBodyP .minus {
+  color: red;
+}
+.formBodyP .btnOpera {
+  float: right;
+  padding-right: 180px;
+}
+.formBodyP .btnOpera .cx {
+  margin-right: 10px;
+}
+.formBodyP .btnOpera .cz {
+  background: #f8f8f8;
+  color: #108ee9;
+  margin-right: 200px;
+}
+.formBodyP .formTable {
+  margin: 50px auto;
+}
+.formBodyP .formTable .table {
+  margin: 50px auto;
+}
+.formBodyP .formTable th,
+.formBodyP .formTable td {
+  text-align: center !important;
+}
+.formBodyP .formTable .opera span {
+  cursor: pointer;
+}
+.ant-cascader-menu {
+  width: 150px;
+}
+.ant-modal-wrap .ant-modal-footer {
+  border: none;
+}

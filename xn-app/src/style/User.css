@@ -1,0 +1,10 @@
+.UserFrom {
+  width: 50%;
+  height: 50%;
+  float: left;
+  text-align: center;
+}
+.UserFrom .ant-row {
+  width: 50%;
+  margin: 20px auto;
+}
